@@ -1,8 +1,3 @@
-
-
----
-
-```markdown
 # IFRS 9 Expected Credit Loss (ECL) Model
 
 <p align="center">
@@ -397,10 +392,6 @@ Email
 # License
 
 MIT License — free to use with attribution.
-
-```
-
----
 
 If you want, I can also show you **3 things that would make this README look like a top-1% GitHub ML project (with diagrams, pipeline flow, and results visuals)**.
 ```
